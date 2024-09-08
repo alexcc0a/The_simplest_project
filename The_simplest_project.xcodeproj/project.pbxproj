@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B11C1D4B2C8E2DE800BF2A44 /* The_simplest_project */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = The_simplest_project; sourceTree = BUILT_PRODUCTS_DIR; };
 		B11C1D4E2C8E2DE800BF2A44 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B11C1D552C8E2E4500BF2A44 /* CMakeLists.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B11C1D4E2C8E2DE800BF2A44 /* main.cpp */,
+				B11C1D552C8E2E4500BF2A44 /* CMakeLists.txt */,
 			);
 			path = The_simplest_project;
 			sourceTree = "<group>";
